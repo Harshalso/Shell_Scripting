@@ -1,0 +1,10 @@
+System Uptime: up 1 hour, 44 minutes
+Memory Usage: 
+               total        used        free      shared  buff/cache   available
+Mem:           3.7Gi       603Mi       2.9Gi       3.0Mi       220Mi       3.0Gi
+Swap:          1.0Gi          0B       1.0Gi
+CPU Load: 0.00,
+Disk Usage: 
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sdc       1007G  2.1G  954G   1% /
+Running Processes: 55
